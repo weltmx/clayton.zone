@@ -106,7 +106,7 @@ export default function Home() {
         <h2
           className={`${comicsans.className} text-5xl absolute left-6 right-6 top-[40%] text-center text-pink-500`}
         >
-          I like planes & mechanical engineering
+          My name is Clayton :) I like planes & mechanical engineering
         </h2>
       </div>
 
