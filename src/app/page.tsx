@@ -21,7 +21,7 @@ export default function Home() {
           </div>
 
           <h1
-            className='text-7xl py-12 text-center font-bold italic -rotate-2'
+            className='text-6xl py-12 text-center font-bold italic -rotate-2'
             style={{
               filter:
                 'drop-shadow(30px 10px 4px #4444dd)  drop-shadow(50px 20px 4px #4444dd80)  drop-shadow(70px 30px 4px #4444dd80)',
